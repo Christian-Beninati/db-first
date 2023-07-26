@@ -1,0 +1,2 @@
+
+Let's model the structure of a table to store all the data regarding used cars being offered for sale by a dealership. Let's try to immerse ourselves in the context and imagine the columns of a car table along with their data types and attributes.
